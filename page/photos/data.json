@@ -1,0 +1,352 @@
+data = [
+    {
+        "name" : "20160908-3.jpg",
+        "title" : "Tesla",
+        "subtitle" : "Tesla 1"
+    },
+    {
+        "name" : "20160908-9.jpg",
+        "title" : "Iggy",
+        "subtitle" : "Iggy 1"
+    },
+    {
+        "name" : "20160908-13.jpg",
+        "title" : "Cerbero",
+        "subtitle" : "Cerbero 1"
+    },
+    {
+        "name" : "20160908-15.jpg",
+        "title" : "Tesla",
+        "subtitle" : "Tesla 2"
+    },
+    {
+        "name" : "20160930-5.jpg",
+        "title" : "Cristianismo",
+        "subtitle" : "Alguna iglesia en NYC"
+    },
+    {
+        "name" : "20160930-8.jpg",
+        "title" : "Organo y luces",
+        "subtitle" : "Alguna iglesia en NYC2"
+    },
+    {
+        "name" : "20160930-20.jpg",
+        "title" : "MoMA 1",
+        "subtitle" : "Arena"
+    },
+    {
+        "name" : "20160930-32.jpg",
+        "title" : "MoMA 2",
+        "subtitle" : "Merda d'artista"
+    },
+    {
+        "name" : "20160930-33.jpg",
+        "title" : "MoMA 3",
+        "subtitle" : "Artist Shit"
+    },
+    {
+        "name" : "20160930-41.jpg",
+        "title" : "MoMA 4",
+        "subtitle" : "Marilyn"
+    },
+    {
+        "name" : "20160930-42.jpg",
+        "title" : "MoMA 5",
+        "subtitle" : "Clavos"
+    },
+    {
+        "name" : "20160930-80.jpg",
+        "title" : "MoMA 6",
+        "subtitle" : "Bandeja"
+    },
+    {
+        "name" : "20160930-141.jpg",
+        "title" : "Biblioteca 1",
+        "subtitle" : "Winnie Pooh"
+    },
+    {
+        "name" : "20160930-167.jpg",
+        "title" : "Biblioteca 2",
+        "subtitle" : "Leon"
+    },
+    {
+        "name" : "20160930-171.jpg",
+        "title" : "Biblioteca 3",
+        "subtitle" : "Techo"
+    },
+    {
+        "name" : "20160930-184.jpg",
+        "title" : "Biblioteca 4",
+        "subtitle" : "Mural"
+    },
+    {
+        "name" : "20160930-186.jpg",
+        "title" : "Biblioteca 5",
+        "subtitle" : "Estonianos mandando cualquiera"
+    },
+    {
+        "name" : "20161001-128.jpg",
+        "title" : "Flatiron",
+        "subtitle" : "Edificios finitos"
+    },
+    {
+        "name" : "20161002-8.jpg",
+        "title" : "Tunel",
+        "subtitle" : "Tunel por Brooklyn"
+    },
+    {
+        "name" : "20161002-27.jpg",
+        "title" : "Detector de metales",
+        "subtitle" : "Detector de metales por Brooklyn"
+    },
+    {
+        "name" : "20161002-50.jpg",
+        "title" : "Foto de publicidad",
+        "subtitle" : "Me tengo que dedicar a esto"
+    },
+    {
+        "name" : "20161002-76.jpg",
+        "title" : "Candados",
+        "subtitle" : "Candados en el puente"
+    },
+    {
+        "name" : "20161002-105.jpg",
+        "title" : "Pescadería",
+        "subtitle" : "Pescadería en el barrio chino"
+    },
+    {
+        "name" : "20161002-110.jpg",
+        "title" : "Barrio chino",
+        "subtitle" : "Neones en el barrio chino"
+    },
+    {
+        "name" : "20161002-120.jpg",
+        "title" : "Graffiti",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161003-9.jpg",
+        "title" : "El otro puente",
+        "subtitle" : "Manhattan (?)"
+    },
+    {
+        "name" : "20161003-16.jpg",
+        "title" : "Templo 1",
+        "subtitle" : "Recuerdos"
+    },
+    {
+        "name" : "20161003-17.jpg",
+        "title" : "Templo 2",
+        "subtitle" : "Budha 1"
+    },
+    {
+        "name" : "20161003-19.jpg",
+        "title" : "Templo 3",
+        "subtitle" : "Budha 2"
+    },
+    {
+        "name" : "20161003-23.jpg",
+        "title" : "Calles y carteles",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161003-36.jpg",
+        "title" : "Space invaders",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161004-36.jpg",
+        "title" : "Alice",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161005-12.jpg",
+        "title" : "Coney Island",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161005-32.jpg",
+        "title" : "Sleep Walker",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20161011-12.jpg",
+        "title" : "Roosevelt Island",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170106-13.jpg",
+        "title" : "Juli",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170106-16.jpg",
+        "title" : "Emi",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170114-6.jpg",
+        "title" : "Rita",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170813-14.jpg",
+        "title" : "Tumbas",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170813-17.jpg",
+        "title" : "Tumbas y gatitos",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170813-21.jpg",
+        "title" : "Mitre",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170820-5.jpg",
+        "title" : "Hermanas",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170820-34.jpg",
+        "title" : "Cachi cómodo",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170824-18.jpg",
+        "title" : "Roxen 1",
+        "subtitle" : "Lamparas"
+    },
+    {
+        "name" : "20170824-41.jpg",
+        "title" : "Roxen 2",
+        "subtitle" : "Valvulas"
+    },
+    {
+        "name" : "20170826-18.jpg",
+        "title" : "Juli",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170826-42.jpg",
+        "title" : "Emi",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20170826-49.jpg",
+        "title" : "Flor",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20171225-5.jpg",
+        "title" : "Recis 1",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20171225-12.jpg",
+        "title" : "Recis 2",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20171231-6.jpg",
+        "title" : "Emi",
+        "subtitle" : "Emi y la luz de la parrilla"
+    },
+    {
+        "name" : "20180107-3.jpg",
+        "title" : "Paco 1",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20180107-17.jpg",
+        "title" : "Paco 2",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20180414-6.jpg",
+        "title" : "Tarot",
+        "subtitle" : ""
+    },
+    // {
+    //     "name" : "20200224-2.jpg",
+    //     "title" : "Fantasmas en Río Cuarto",
+    //     "subtitle" : ""
+    // },
+    // {
+    //     "name" : "20200224-6.jpg",
+    //     "title" : "Juli",
+    //     "subtitle" : ""
+    // },
+    {
+        "name" : "20200226-5.jpg",
+        "title" : "Cachi salvage",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200301-4.jpg",
+        "title" : "Lau",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200317.jpg",
+        "title" : "Cuidando la entrada",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200321-8.jpg",
+        "title" : "Las artes secretas",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200321-24.jpg",
+        "title" : "Akira",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200601.jpg",
+        "title" : "Lau",
+        "subtitle" : "Siempre atenta"
+    },
+    {
+        "name" : "20200824-4.jpg",
+        "title" : "Luces",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200824-17.jpg",
+        "title" : "Lau y Luces 1",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200824-18.jpg",
+        "title" : "Lau y Luces 2",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200824-22.jpg",
+        "title" : "Lau y Luces 3",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200824-23-Mejorado.jpg",
+        "title" : "Lau y Luces 4",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200904-8.jpg",
+        "title" : "Puchito es amor",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200906-8.jpg",
+        "title" : "B&W Lau",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20201010-6.jpg",
+        "title" : "Acid Lau",
+        "subtitle" : ""
+    }
+]

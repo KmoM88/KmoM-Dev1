@@ -1,4 +1,3 @@
-FROM nginx:1.20.0
+FROM nginx:1.20.0-alpine
 RUN apt-get update
-COPY ./src /usr/share/nginx/html/
-EXPOSE 8000:80
+COPY src/index.html /usr/share/nginx/html/
