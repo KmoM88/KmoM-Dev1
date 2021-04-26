@@ -3,4 +3,6 @@
 
 Personal page project. Hosted on giuthub pages for the moment. Design from https://html5up.net/hyperspace/ and https://html5up.net/multiverse.
 
+Index.html inside /docs.
+
 Dockerfile & Docker-compose to test the page with nginx:1.20 image on port 8000.
