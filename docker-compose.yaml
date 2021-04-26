@@ -1,8 +1,8 @@
-version: "3"
+version: "2"
 
 services:
-    
-    holadocker:
-        build: .
-        ports:
-            -80:80
+
+  holadocker:
+    build: .
+    ports:
+      - 8000:80

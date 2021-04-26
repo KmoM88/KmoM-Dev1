@@ -1,3 +1,3 @@
-FROM nginx:1.20.0-alpine
+FROM nginx:1.20.0
 RUN apt-get update
-COPY src/index.html /usr/share/nginx/html/
+COPY docs /usr/share/nginx/html
