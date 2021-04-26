@@ -269,16 +269,16 @@ data = [
         "title" : "Tarot",
         "subtitle" : ""
     },
-    // {
-    //     "name" : "20200224-2.jpg",
-    //     "title" : "Fantasmas en Río Cuarto",
-    //     "subtitle" : ""
-    // },
-    // {
-    //     "name" : "20200224-6.jpg",
-    //     "title" : "Juli",
-    //     "subtitle" : ""
-    // },
+    {
+        "name" : "20200224-2.jpg",
+        "title" : "Fantasmas en Río Cuarto",
+        "subtitle" : ""
+    },
+    {
+        "name" : "20200224-6.jpg",
+        "title" : "Juli",
+        "subtitle" : ""
+    },
     {
         "name" : "20200226-5.jpg",
         "title" : "Cachi salvage",
